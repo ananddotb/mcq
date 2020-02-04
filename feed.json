@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TestByte",
+    "description": "",
+    "home_page_url": "https://ananddotb.github.io/mcq",
+    "feed_url": "https://ananddotb.github.io/mcq/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "nanquest"
+    },
+    "items": [
+    ]
+}
