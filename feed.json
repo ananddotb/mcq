@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://ananddotb.github.io/mcq/answer-key.html",
+            "url": "https://ananddotb.github.io/mcq/answer-key.html",
+            "title": "Answer Key",
+            "summary": "Q1. The Java language implementation is governed by A. c) The Java Language Specification ",
+            "content_html": "<p><strong>Q1. The Java language implementation is governed by</strong></p>\n<p>A. c) The Java Language Specification</p>\n<hr>\n<p> </p>",
+            "author": {
+                "name": "nanquest"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-06T12:30:31+05:30",
+            "date_modified": "2020-02-06T12:30:31+05:30"
+        },
+        {
             "id": "https://ananddotb.github.io/mcq/q1.html",
             "url": "https://ananddotb.github.io/mcq/q1.html",
             "title": "Q1",
