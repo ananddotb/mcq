@@ -9,5 +9,19 @@
         "name": "nanquest"
     },
     "items": [
+        {
+            "id": "https://ananddotb.github.io/mcq/q1.html",
+            "url": "https://ananddotb.github.io/mcq/q1.html",
+            "title": "Q1",
+            "summary": "Q. The Java language implementation is governed by a) The Java Development Kit b) The Java Virtual Machine c) The Java Language Specification d) The Java Standard Edition NoteThere may be multiple answers to some questions.The Answer page contains the key to the questions.",
+            "content_html": "<p><strong>Q. The Java language implementation is governed by</strong><br>a) The Java Development Kit<br>b) The Java Virtual Machine<br>c) The Java Language Specification <br>d) The Java Standard Edition </p>\n<hr>\n<p><span style=\"text-decoration: underline;\"><em>Note</em></span></p>\n<ul>\n<li>There may be multiple answers to some questions.</li>\n<li>The Answer page contains the key to the questions.</li>\n</ul>",
+            "author": {
+                "name": "nanquest"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-06T12:18:44+05:30",
+            "date_modified": "2020-02-06T12:18:44+05:30"
+        }
     ]
 }

@@ -3,10 +3,36 @@
     <title>TestByte</title>
     <link href="https://ananddotb.github.io/mcq/feed.xml" rel="self" />
     <link href="https://ananddotb.github.io/mcq" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2020-02-06T12:22:00+05:30</updated>
     <author>
         <name>nanquest</name>
     </author>
     <id>https://ananddotb.github.io/mcq</id>
 
+    <entry>
+        <title>Q1</title>
+        <author>
+            <name>nanquest</name>
+        </author>
+        <link href="https://ananddotb.github.io/mcq/q1.html"/>
+        <id>https://ananddotb.github.io/mcq/q1.html</id>
+
+        <updated>2020-02-06T12:18:44+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Q. The Java language implementation is governed by a) The Java Development Kit b) The Java Virtual Machine c) The Java Language Specification d) The Java Standard Edition NoteThere may be multiple answers to some questions.The Answer page contains the key to the questions.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Q. The Java language implementation is governed by</strong><br>a) The Java Development Kit<br>b) The Java Virtual Machine<br>c) The Java Language Specification <br>d) The Java Standard Edition </p>
+<hr>
+<p><span style="text-decoration: underline;"><em>Note</em></span></p>
+<ul>
+<li>There may be multiple answers to some questions.</li>
+<li>The Answer page contains the key to the questions.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
 </feed>
